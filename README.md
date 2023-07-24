@@ -10,7 +10,7 @@ This repository contains following artifacts:
     <li>A simplified and an extended process model of the company acquisition process, expressed with GSM. You can find them in the directories "gsm_simplified" and "gsm_full".</li>
     <li>A simplified and an extended process model of the company acquisition process, expressed with fCM. You can find them in the directories "fcm_simplified" and "fcm_full".</li>
     <li>A process model of the company acquisition process, expressed with BPMN. Thereby, the model introduces the motivation why other modelling technqiues are required. You can find the BPMN model in the directory "bpmn".</li>
-    <li>The final paper that describes the company acquisition process, summarizes the characteristics presented by Di Ciccio et al., prooves the knowledge-intensive nature of the company acquisition process, explains and evaluates the revlevance of requirements on modelling techniques as well as discusses to which extent GSM and fCM meet these requirements. </li>
+    <li>The final paper that describes the company acquisition process, summarizes the characteristics presented by Di Ciccio et al., prooves the knowledge-intensive nature of the company acquisition process and discusses to which extent GSM and fCM meet Di Ciccio et al.'s requirements on modelling techniques. </li>
 </ol>
 
 ## Acknowledgements
